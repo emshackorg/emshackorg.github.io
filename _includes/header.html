@@ -1,0 +1,10 @@
+<header class="site-header">
+  <div class="container">
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/emshack_banner.svg' | relative_url }}" alt="emshack">
+    </a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="{{ '/hackerspaces/' | relative_url }}" {% if page.url == '/hackerspaces/' %}aria-current="page"{% endif %}>Hackerspaces</a>
+    </nav>
+  </div>
+</header>
