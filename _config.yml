@@ -25,10 +25,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://emshackorg.github.io"
 emsland_svg: "/assets/emsland.svg"
 emsland_geo_bounds:
-  north: 53.20
-  south: 52.35
-  west: 6.90
-  east: 7.85
+  north: 53.1120
+  south: 52.277
+  west: 6.99
+  east: 7.832
 
 plugins:
   - jekyll-feed
