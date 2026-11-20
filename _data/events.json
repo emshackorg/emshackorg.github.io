@@ -1,0 +1,29 @@
+{
+  "events": [
+    {
+      "title": "40C3",
+      "date": "2026-12-26 10:00",
+      "end_date": "2026-12-30 18:00",
+      "location": "Hamburg Messe, Hamburg, Germany",
+      "description": "40th Chaos Communication Congress",
+      "url": "https://events.ccc.de/congress/2026/infos/startpage.html"
+    },
+    {
+      "title": "lenny.camp",
+      "date": "2026-07-31 15:00",
+      "end_date": "2026-08-02 12:00",
+      "location": "lenny.camp, Sustrum-Moor, Germany",
+      "description": "first lenny.camp - hack the tent",
+      "url": "https://lenny.camp"
+    },
+    {
+      "title": "39C3",
+      "date": "2025-12-26 10:00",
+      "end_date": "2025-12-30 18:00",
+      "location": "CCH, Hamburg, Germany",
+      "description": "39th Chaos Communication Congress",
+      "url": "https://events.ccc.de/congress/2025/infos/startpage.html"
+    }
+  ]
+}
+

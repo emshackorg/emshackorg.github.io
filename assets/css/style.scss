@@ -135,6 +135,35 @@ a {
   text-underline-offset: 2px;
 }
 
+.events-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 2rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.event-item {
+  border: 1px solid var(--fg);
+  padding: 1rem;
+}
+
+.event-title {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.event-meta,
+.event-description,
+.event-link {
+  margin: 0.45rem 0 0;
+}
+
+.event-link a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .map-wrapper {
   position: relative;
   width: min(100%, 27.3rem);
